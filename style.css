@@ -5,6 +5,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  background-color: #f00;
 }
 .container {
   margin: 10rem;
